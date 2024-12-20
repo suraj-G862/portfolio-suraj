@@ -1,0 +1,62 @@
+[
+  {
+    "name": "WorldChat",
+    "desc": "A fully functional and reliable chat app built using MERN,SocketIO,tailwind,zustand",
+    "image": "./assets/images/projects/chatApp.jpg",
+    "category": "website",
+    "links": {
+      "view": "https://worldchat-54nd.onrender.com/",
+      "code": "https://github.com/suraj-G862/WorldChat"
+    }
+  },
+  {
+    "name": "Campus Management",
+    "desc": "A campus centric solution for problems faced in IIT bhilai.",
+    "image": "./assets/images/projects/campus.jpg",
+    "category": "Website",
+    "links": {
+      "view": "https://automatex-leechers.onrender.com/",
+      "code": "https://github.com/suraj-G862/automatex-leechers"
+    }
+  },
+  {
+    "name": "Openlake",
+    "desc": "Engaging website for orchestrating Open Source club activities at IIT Bhilai.",
+    "image": "./assets/images/projects/open-source.webp",
+    "category": "website",
+    "links": {
+      "view": "https://jd-x-seven.vercel.app/",
+      "code": "https://github.com/suraj-G862/JD-X"
+    }
+  },
+  {
+    "name": "PayTrax",
+    "desc": "Efficiently manage Invoices utilizing real-time database integration. Built Using NEXT",
+    "image": "./assets/images/projects/paytrax.png",
+    "category": "website",
+    "links": {
+      "view": "https://nextjs-project-suraj.vercel.app/",
+      "code": "https://github.com/suraj-G862/nextjs"
+    }
+  },
+  {
+    "name": "DSA Reccommendation System",
+    "desc": "Personalised recommendations of DSA question to user based on various features ",
+    "image": "./assets/images/projects/dsa.jpeg",
+    "category": "Machine learning",
+    "links": {
+      "view": "https://github.com/udayb3/ML_DSA_Recommendation_project",
+      "code": "https://github.com/udayb3/ML_DSA_Recommendation_project"
+    }
+  },
+  {
+    "name": "RealEstate Platform",
+    "desc": "Platform for buy and sell of Real Estates",
+    "image": "./assets/images/projects/realestate.jpg",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/ashwaniraj0813/real_estate",
+      "code": "https://github.com/ashwaniraj0813/real_estate"
+    }
+  }
+]
