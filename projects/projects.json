@@ -58,5 +58,15 @@
       "view": "https://github.com/ashwaniraj0813/real_estate",
       "code": "https://github.com/ashwaniraj0813/real_estate"
     }
+  },
+  {
+    "name": "Finance Manager",
+    "desc": "Platform to manage and track various stock prices from different markets.",
+    "image": "./assets/images/projects/finboard.webp",
+    "category": "website",
+    "links": {
+      "view": "https://fin-board-groww.vercel.app/",
+      "code": "https://github.com/suraj-G862/finBoard"
+    }
   }
 ]
